@@ -2,13 +2,13 @@ import React from "react";
 
 function AboutUs() {
   return (
-    <div style={{ padding: "20px" }}>
-      <h1>About Paradise Nursery</h1>
+    <div className="about-us-container">
+      <h2>About Paradise Nursery</h2>
       <p>
-        Paradise Nursery is your one-stop destination for indoor and outdoor plants.
+        Paradise Nursery is your one-stop shop for indoor and outdoor plants.
       </p>
       <p>
-        We help make your home greener and healthier.
+        We provide high-quality plants that bring freshness and beauty to your home.
       </p>
     </div>
   );
